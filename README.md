@@ -250,7 +250,7 @@ Price: <span class="price">₹399</span>
 ```
 
 ## OUTPUT:
-![Book Cover]("C:\Users\Marliya Banu\EX 5 BOOK COVER\cover\bookcover\bookapp\static\output.png")
+![Output](bookcover/bookapp/static/output.png)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
